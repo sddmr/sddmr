@@ -1,4 +1,4 @@
-# 💫 Hey dear I m Selahattin Demir :
+# Hi dear👋! I m Selahattin Demir 
 📚 I m a first year computer engineering student.
 
 📍 From Ankara/Turkey
