@@ -1,4 +1,4 @@
-# 💫 Hey dear ı m Selahattin Demir:
+# 💫 Hey dear I m Selahattin Demir:
 📚 I m a first year computer engineering student.
 
 
