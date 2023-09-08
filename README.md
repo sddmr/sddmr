@@ -1,7 +1,7 @@
 # 💫 Hey dear I m Selahattin Demir :
 📚 I m a first year computer engineering student.
-📍 From Ankara/Turkey
 
+📍 From Ankara/Turkey
 
 📧 selahattinddmr@outlook.com
 
