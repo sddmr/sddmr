@@ -1,5 +1,6 @@
 # 💫 Hey dear ı m Selahattin Demir:
-I m a first year computer engineering student.
+📚 I m a first year computer engineering student.
+📧 selahattinddmr@outlook.com
 
 
 ## 🌐 Socials:
