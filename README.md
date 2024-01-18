@@ -1,5 +1,5 @@
 # Hi dear👋! I m Selahattin 
-📚 I m a first year computer engineering student.
+📚 I m a computer engineering student.
 
 📍 From Ankara/Turkey
 
