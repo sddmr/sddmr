@@ -1,6 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=85CFFF&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=089EFF&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=85CFFF&size=35&center=true&vCenter=true&width=1000&lines=<Hello+World!+I'm+Selahattin/>;<I'm+from+Turkey/>;<Welcome!/>;<Merhaba+Dünya!+Ben+Selahattin/>;<Hoş+geldiniz!/>+:%29)](https://github.com/sddmr)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=089EFF&size=35&center=true&vCenter=true&width=1000&lines=<Hello+World!+I'm+Selahattin/>;<I'm+from+Turkey/>;<Welcome!/>;<Merhaba+Dünya!+Ben+Selahattin/>;<Hoş+geldiniz!/>+:%29)](https://github.com/sddmr)
 
 
 <br> </br>
@@ -38,7 +38,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />
 </div>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=85CFFF&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=089EFF&height=120&section=footer"/>
 
 
 
