@@ -44,6 +44,8 @@
   <img width="12" />
   <img src="https://static.djangoproject.com/img/logos/django-logo-negative.svg" height="30" alt="django logo"  />
   <img width="12" />
+  <img src="https://www.svgrepo.com/show/330741/jinja.svg" height="30" alt="jinja logo"  />
+  <img width="12" />
   
 </div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=089EFF&height=120&section=footer"/>
