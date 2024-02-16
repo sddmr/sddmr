@@ -42,6 +42,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="30" alt="selenium logo"  />
   <img width="12" />
+  <img src="https://static.djangoproject.com/img/logos/django-logo-negative.svg" height="30" alt="django logo"  />
+  <img width="12" />
   
 </div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=089EFF&height=120&section=footer"/>
