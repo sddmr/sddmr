@@ -35,17 +35,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="30" alt="selenium logo"  />
-  <img width="12" />
-  <img src="https://static.djangoproject.com/img/logos/django-logo-negative.svg" height="30" alt="django logo"  />
-  <img width="12" />
-  <img src="https://www.svgrepo.com/show/330741/jinja.svg" height="30" alt="jinja logo"  />
-  <img width="12" />
+
   
 </div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=089EFF&height=120&section=footer"/>
