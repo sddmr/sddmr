@@ -6,7 +6,7 @@
 <br> </br>
 📍 From Ankara/Turkey
 <br> </br>
-🌱 I’m currently learning **Java, Html, Css, Javascript**
+🌱 I’m currently learning **Java,Dart, Html, Css, Javascript**
 <br> </br>
 📧 selahattinddmr@outlook.com
 
@@ -28,6 +28,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="css3 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" height="35" alt="dart logo"  />
+
+
 
   
 </div>
