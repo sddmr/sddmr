@@ -30,6 +30,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="javascript logo"  />
   <img width="12" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" height="35" alt="dart logo"  />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" height="35" alt="dart logo"  />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" height="35" alt="dart logo"  />
+
+
 
 
 
