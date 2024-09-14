@@ -6,7 +6,7 @@
 <br> </br>
 📍 From Ankara/Turkey
 <br> </br>
-🌱 I’m currently learning **Java,Dart, Html, Css, Javascript**
+🌱 I’m currently learning **Java,C, CPP, Html, Css, Javascript**
 <br> </br>
 📧 selahattinddmr@outlook.com
 
