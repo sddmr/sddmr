@@ -29,7 +29,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" height="35" alt="dart logo"  />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" height="35" alt="python logo"  />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" height="35" alt="dart logo"  />
   <img width="12" />
