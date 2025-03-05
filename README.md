@@ -6,7 +6,7 @@
 <br> </br>
 📍 From Ankara/Turkey
 <br> </br>
-🌱 I’m currently learning **Python, C, Cpp, Java**
+🌱 I’m currently learning **Python, C, Java**
 <br> </br>
 📧 selahattinddmr@outlook.com
 
@@ -27,8 +27,8 @@
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" height="35" alt="c logo"  />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" height="35" alt="cpp logo"  />
-  <img width="12" />
+<!--   <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" height="35" alt="cpp logo"  />
+  <img width="12" /> -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="css3 logo"  />
