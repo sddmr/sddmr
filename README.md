@@ -6,7 +6,7 @@
 <br> </br>
 📍 From Ankara/Turkey
 <br> </br>
-🌱 I’m currently learning **Python, C, Java**
+🌱 I’m currently learning **Python, C, C++, Java**
 <br> </br>
 📧 selahattinddmr@outlook.com
 
