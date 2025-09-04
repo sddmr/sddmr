@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Spiderman PNG -->
-  <img src="https://www.freeiconspng.com/uploads/little-spider-boy-png-12.png" height="200" alt="spiderman" />
+  <img src="https://img1.picmix.com/output/stamp/normal/7/6/9/5/1955967_6984d.png" height="200" alt="spiderman" />
   
   <!-- Yan yazı -->
   <h3>Hey! I'm someone who is passionate about <b>Linux</b> and likes to write code.</h3>
