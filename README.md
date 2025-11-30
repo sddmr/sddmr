@@ -25,25 +25,48 @@
 <div align="left">
   <!-- Diller -->
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" height="45" alt="python logo" />
+    <img width="12" />
+
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" height="45" alt="c logo" />
+    <img width="12" />
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="45" alt="cpp logo" />
+    <img width="12" />
+
 
   <!-- Web -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="html5 logo" />
+    <img width="12" />
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="css3 logo" />
+    <img width="12" />
+
 
   <!-- Framework & Tools -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" height="45" alt="qt logo" />
+    <img width="12" />
+
+  <img src="https://lvgl.io/github-assets/logo-colored.png" height="45" alt="lvgl logo" />
+    <img width="12" />
+
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/OpenCV_logo_black.svg/1200px-OpenCV_logo_black.svg.png" height="45" alt="opencv logo" />
-  <img src="https://ubuntu.com/wp-content/uploads/bbc1/HumbleHawksbill_02.png" height="45" alt="ros logo" />
+    <img width="12" />
+
+
+
   <img src="https://miro.medium.com/0*sW9ikOJeSuk4wWRW" height="45" alt="ros logo" />
+    <img width="12" />
+    
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40" alt="raspberrypi logo"/>
+    <img width="12" />
 
 
-  <!-- Adobe (düzeltilmiş logolar) -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg" height="45" alt="photoshop logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="45" alt="after effects logo" />
 
   <!-- OS -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="45" alt="linux logo" />
+    <img width="12" />
+
+  <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="40" alt="ubuntu logo"  />
+  <img width="12" />
 
 </div>
