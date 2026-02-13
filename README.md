@@ -14,10 +14,16 @@
 
 <br>
 
-📚 I’m a computer engineering student.  
-📍 From Ankara/Turkey  
-🌱 I’m currently learning **Python, C, C++**  
-📧 selahattinddmr@outlook.com  
+📚 Computer Engineering Student  
+📍 Ankara, Turkey  
+🌱 Currently learning and working on:
+- Python, C, C++
+- Embedded Systems & Embedded Linux
+- Low-level programming & system-level software
+- Robotics & AI
+- Computer Vision & real-time data processing
+
+📧 Contact: selahattinddmr@outlook.com 
 
 ---
 
