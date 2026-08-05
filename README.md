@@ -32,9 +32,7 @@
 
   <br><br>
 
-  <p><b>Frameworks & Robotics</b></p>
-  <img src="https://www.esol.com/uploaded/ros2_logo.png" height="45" alt="ros2 logo" title="ROS2" />
-  <img width="15" />
+  <p><b>Frameworks</b></p>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" height="45" alt="qt logo" title="Qt/QML" />
   <img width="15" />
   <img src="https://lvgl.io/github-assets/logo-colored.png" height="45" alt="lvgl logo" title="LVGL" />
@@ -54,12 +52,5 @@
 
   <br><br>
 
-  <p><b>OS & Build Environments</b></p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="45" alt="linux logo" title="Linux" />
-  <img width="15" />
-  <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="45" alt="ubuntu logo" title="Ubuntu" />
-  <img width="15" />
-  <img src="https://buildroot.org/images/logo.png" height="45" alt="buildroot logo" title="Buildroot" />
-  <img width="15" />
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5m4c0EjmdI9VR50naJvcrFAwwHRDFBqA6N153a4EElQ&s=10" height="45" alt="yocto logo" title="Yocto Project" />
+
 </div>
