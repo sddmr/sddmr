@@ -16,7 +16,7 @@
 ### 👨‍💻 About Me
 - 📚 4rd-year **Computer Engineering** student at Sivas Cumhuriyet University.
 - 📍 **Ankara, Turkey**.
-- ⚙️ Deeply interested in **Low-level programming**, **Embedded Linux**, and **Autonomous Systems**.
+- ⚙️ Deeply interested in **Low-level programming**, **Embedded Software**, **Embedded Linux**, and **Autonomous Systems**.
 
 ---
 
